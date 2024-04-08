@@ -1,3 +1,13 @@
+---
+title: How to utilize the streaming media enhancement feature in OpenClash
+published: 2024-04-08
+description: ''
+image: ''
+tags: [OpenWRT]
+category: 'OpenWRT'
+draft: false 
+---
+
 # Preparations
 
 * Ensure that your OpenClash plugin is correctly installed and that the configuration file can be started without issues.
