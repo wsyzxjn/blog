@@ -35,7 +35,7 @@ export const profileConfig: ProfileConfig = {
   name: 'Amatsuka',
   bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   links: [
-    /*{
+    {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
       url: 'https://twitter.com',
@@ -44,7 +44,7 @@ export const profileConfig: ProfileConfig = {
       name: 'Steam',
       icon: 'fa6-brands:steam',
       url: 'https://store.steampowered.com',
-    },*/
+    },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
