@@ -3,7 +3,7 @@ title: How to utilize the streaming media enhancement feature in OpenClash
 published: 2024-04-08
 description: ''
 image: ''
-tags: [OpenWRT]
+tags: [OpenWRT,OpenClash]
 category: 'OpenWRT'
 draft: false 
 ---
