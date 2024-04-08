@@ -33,9 +33,9 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/b_6dfe518d9399e50634b5b691bd92a0ed.jpg',
   name: 'Amatsuka',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  bio: 'Attempt to accomplish.',
   links: [
-    {
+    /*{
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
       url: 'https://twitter.com',
@@ -44,7 +44,7 @@ export const profileConfig: ProfileConfig = {
       name: 'Steam',
       icon: 'fa6-brands:steam',
       url: 'https://store.steampowered.com',
-    },
+    },*/
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
