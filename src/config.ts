@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'Amatsuka Blog',
+  subtitle: 'Amatsuka Blog',
   lang: 'en',
   themeHue: 250,
   banner: {
@@ -31,11 +31,11 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
+  avatar: 'srcassetsimages\b_6dfe518d9399e50634b5b691bd92a0ed.jpg',
+  name: 'Amatsuka',
   bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   links: [
-    {
+    /*{
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
       url: 'https://twitter.com',
@@ -44,11 +44,11 @@ export const profileConfig: ProfileConfig = {
       name: 'Steam',
       icon: 'fa6-brands:steam',
       url: 'https://store.steampowered.com',
-    },
+    },*/
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/saicaca/wsyzxjn',
     },
   ],
 }
