@@ -31,7 +31,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'srcassetsimages\b_6dfe518d9399e50634b5b691bd92a0ed.jpg',
+  avatar: 'srcassetsimages/b_6dfe518d9399e50634b5b691bd92a0ed.jpg',
   name: 'Amatsuka',
   bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   links: [
