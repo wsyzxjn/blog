@@ -27,7 +27,6 @@ export default defineConfig({
   base: "/",
   integrations: [
     tailwind(),
-    sitemap(),
     swup({
       theme: false,
       animationClass: 'transition-',
