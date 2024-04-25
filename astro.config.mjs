@@ -9,7 +9,6 @@ import rehypeSlug from "rehype-slug"
 import remarkMath from "remark-math"
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs"
 import svelte from "@astrojs/svelte"
-import sitemap from '@astrojs/sitemap'
 import swup from '@swup/astro';
 
 const oklchToHex = (str) => {
